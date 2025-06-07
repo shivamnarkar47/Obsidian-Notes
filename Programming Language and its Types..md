@@ -6,15 +6,10 @@ So Programming Languages are similar to the Languages we speak in day-to-day lif
 
 Now comes to the HLL (*High Level Language*). It was created to make programmers understand the language.
 So for summary now, we have three types of programming languages : 
-
-![[Pasted image 20250607160357.png]]
-
-
-#### What is Program ?
+![A diagram](https://raw.githubusercontent.com/shivamnarkar47/Obsidian-Notes/refs/heads/main/Pasted%20image%2020250607160357.png)
+### What is Program ?
 
 - Its a set of instructions written in any specific language.
-
-
 ## Types of Programming Languages 
  1. Procedural Programming Language.
 	- List of instruction to tell the computer, what to do step by step

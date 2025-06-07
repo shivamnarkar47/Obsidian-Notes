@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths in DSA.md",
+                "file": "Programming Language and its Types..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths in DSA"
+              "title": "Programming Language and its Types."
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths in DSA.md",
+                "file": "Programming Language and its Types..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maths in DSA"
+              "title": "Backlinks for Programming Language and its Types."
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths in DSA.md",
+                "file": "Programming Language and its Types..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Maths in DSA"
+              "title": "Outgoing links from Programming Language and its Types."
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths in DSA.md",
+                "file": "Programming Language and its Types..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Maths in DSA"
+              "title": "Outline of Programming Language and its Types."
             }
           }
         ]

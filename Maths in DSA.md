@@ -12,19 +12,16 @@
 		```java
 		public static void countDigitsusingLog(int num) {
 		
-		if(num==0) {
+			if(num==0) {
+				System.out.println("Digits are : 1");
+				return;
+			}
 		
-		System.out.println("Digits are : 1");
+			int count1=(int)((int)Math.log(num)/Math.log(10))+1;
 		
-		return;
+		// int count = (int)Math.log(num)+1;
 		
-		}
-		
-		int count1=(int)((int)Math.log(num)/Math.log(10))+1;
-		
-		int count = (int)Math.log(num)+1;
-		
-		System.out.println("Digits are : "+count1);
+			System.out.println("Digits are : "+count1);
 		
 		}
 		```
