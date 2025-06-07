@@ -1,0 +1,27 @@
+**Here is the proper Table of Contents stated:** 
+Topics covered in course:
+- [[What is coding]]
+- Flowchart
+- Time & Space Complexity
+- Variables & DataTypes in Java
+- Operators, Conditionals & Loops
+- Array, String
+- Maths in DSA
+- Java Collections Framework
+- Linked List
+- Stack & Queues
+- Sliding Window Problems
+- Bit Manipulation
+- Function & in-depth Knowledge of flow
+- Object Oriented Programming Concepts
+- Dynamic Arrays
+- Trees
+- Heaps
+- Divide & Conquer Technique
+- Graphs
+- Searching Algorithms
+- Sorting Algorithms
+- Greedy Algorithms
+- Dynamic Programming
+- Recursion & Backtracking
+- Hashing, Tries and Segment Tree
