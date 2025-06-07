@@ -1,10 +1,10 @@
 **Here is the proper Table of Contents stated:** 
 Topics covered in course:
-- [[What is coding]]
-- Flowchart
-- Time & Space Complexity
-- Variables & DataTypes in Java
-- Operators, Conditionals & Loops
+- [[Programming Language and its Types.]]
+- *Flowchart (Skipped)*
+- *Time & Space Complexity (Skipped)*
+- *Variables & DataTypes in Java (Skipped)*
+- *Operators, Conditionals & Loops (Skipped)*
 - Array, String
 - Maths in DSA
 - Java Collections Framework
