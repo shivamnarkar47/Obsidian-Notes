@@ -35,8 +35,7 @@
               "title": "What is coding"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "10b7316f85080859",
@@ -125,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is coding"
+              "title": "Backlinks"
             }
           },
           {
@@ -144,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What is coding"
+              "title": "Outgoing links"
             }
           },
           {
@@ -173,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is coding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What is coding"
+              "title": "Outline"
             }
           }
         ]
@@ -200,9 +196,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "382a2ae7d17ac5cd",
+  "active": "a5cc8debcc377508",
   "lastOpenFiles": [
-    "What is coding.md",
-    "Welcome to the Guide..md"
+    "Welcome to the Guide..md",
+    "What is coding.md"
   ]
 }
