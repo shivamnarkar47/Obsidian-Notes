@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to the Guide..md",
+                "file": "Programming Language and its Types..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to the Guide."
+              "title": "Programming Language and its Types."
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to the Guide..md",
+                "file": "Programming Language and its Types..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome to the Guide."
+              "title": "Backlinks for Programming Language and its Types."
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to the Guide..md",
+                "file": "Programming Language and its Types..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome to the Guide."
+              "title": "Outgoing links from Programming Language and its Types."
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to the Guide..md",
+                "file": "Programming Language and its Types..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome to the Guide."
+              "title": "Outline of Programming Language and its Types."
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "1303df42fc184411",
   "lastOpenFiles": [
-    "Programming Language and its Types..md",
     "Welcome to the Guide..md",
+    "Programming Language and its Types..md",
     "Pasted image 20250607160357.png",
     "Excalidraw/Drawing 2025-06-07 15.55.50.excalidraw.md",
     "Excalidraw",

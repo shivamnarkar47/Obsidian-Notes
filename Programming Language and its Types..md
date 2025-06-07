@@ -14,7 +14,6 @@ So for summary now, we have three types of programming languages :
 
 
 ## Types of Programming Languages 
----
  1. Procedural Programming Language.
 	- List of instruction to tell the computer, what to do step by step
 	- Also called structured programming.
@@ -35,7 +34,6 @@ So for summary now, we have three types of programming languages :
 	- No need to declare data types.
 
 ## Memory Management
----
 In Java, Memory Management is the process of allocation and de-allocation of objects.
 Java does the memory management automatically. Its called garbage collector.
 
