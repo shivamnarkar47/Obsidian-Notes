@@ -1,4 +1,4 @@
-**Here is the proper Table of Contents stated:** 
+ **Here is the proper Table of Contents stated:** 
 Topics covered in course:
 - [[Programming Language and its Types.]]
 - *Flowchart (Skipped)*
@@ -6,7 +6,7 @@ Topics covered in course:
 - *Variables & DataTypes in Java (Skipped)*
 - *Operators, Conditionals & Loops (Skipped)*
 - Array, String
-- Maths in DSA
+- [[Maths in DSA]]
 - Java Collections Framework
 - Linked List
 - Stack & Queues
