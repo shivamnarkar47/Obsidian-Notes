@@ -25,4 +25,11 @@
 		
 		}
 		```
-- 
+- Armstrong number :
+	- The sum of cube of all the digits will be equal to the number
+	- eg : 153
+- Palindrome number :
+	- Reverse the no using units tenths method.
+	- Compare with copy of num
+- Count all Divisors :
+	

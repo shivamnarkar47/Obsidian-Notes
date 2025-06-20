@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "05feb8db9999e3ec",
+        "id": "55aa03148bbd1a67",
         "type": "tabs",
         "children": [
           {
-            "id": "1303df42fc184411",
+            "id": "8ae600d43d57954a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to the Guide..md",
+                "file": "Maths in DSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome to the Guide."
-            }
-          },
-          {
-            "id": "44705067bbf1d251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language and its Types..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programming Language and its Types."
-            }
-          },
-          {
-            "id": "665826ef975f9188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language and its Types..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programming Language and its Types."
+              "title": "Maths in DSA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Language and its Types..md",
+                "file": "Maths in DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming Language and its Types."
+              "title": "Backlinks for Maths in DSA"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Language and its Types..md",
+                "file": "Maths in DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Programming Language and its Types."
+              "title": "Outgoing links from Maths in DSA"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Language and its Types..md",
+                "file": "Maths in DSA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Language and its Types."
+              "title": "Outline of Maths in DSA"
             }
           }
         ]
@@ -199,11 +170,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44705067bbf1d251",
+  "active": "8ae600d43d57954a",
   "lastOpenFiles": [
-    "Maths in DSA.md",
     "Welcome to the Guide..md",
     "Programming Language and its Types..md",
+    "Maths in DSA.md",
     "Pasted image 20250607160357.png",
     "Excalidraw/Drawing 2025-06-07 15.55.50.excalidraw.md",
     "Excalidraw",
